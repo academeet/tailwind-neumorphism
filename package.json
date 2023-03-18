@@ -1,7 +1,7 @@
 {
-  "name": "tailwindcss-neumorphism",
-  "version": "0.2.0",
-  "description": "Generate soft UI CSS code using tailwindcss",
+  "name": "tailwind-neumorphism",
+  "version": "0.2.1",
+  "description": "Generate soft UI CSS code using tailwindcss forked from sambeevors/tailwindcss-neumorphism",
   "main": "index.js",
   "files": [
     "index.js"
@@ -18,12 +18,9 @@
   "author": "Sam Beevors <me@sambeevors.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sambeevors/tailwindcss-neumorphism.git"
+    "url": "git+https://github.com/academeet/tailwind-neumorphism.git/issues"
   },
-  "bugs": {
-    "url": "https://github.com/sambeevors/tailwindcss-neumorphism/issues"
-  },
-  "homepage": "https://github.com/sambeevors/tailwindcss-neumorphism#readme",
+  "homepage": "https://github.com/academeet/tailwind-neumorphism.git#readme",
   "license": "MIT",
   "dependencies": {
     "color": "^3.1.2",
