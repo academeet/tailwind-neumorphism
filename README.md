@@ -10,18 +10,18 @@
 
 This plugin is inspired by [neumorphism.io](https://neumorphism.io/), as well as [this article](https://uxdesign.cc/neumorphism-in-user-interfaces-b47cef3bf3a6) by Michal Malewicz which I highly recommend you check out.
 
-![An example of Neumorphism](https://cdn.dribbble.com/users/2202649/screenshots/9527558/media/13076f9099e978de5f04c1bec809464f.png 'Freebie Neumorphic UX UI Elements by Emy Lascan on Dribbble')
+![An example of Neumorphism](https://dribbble.com/shots/11335888-NEUMORPHISM-TUTORIAL)
 
 ## Getting Started
 
 Install via npm or yarn
 
 ```
-npm install tailwindcss-neumorphism
+npm install tailwind-neumorphism
 ```
 
 ```
-yarn add tailwindcss-neumorphism
+yarn add tailwind-neumorphism
 ```
 
 Then just require it as a plugin.
@@ -29,7 +29,7 @@ Then just require it as a plugin.
 ```js
 // tailwind.config.js
 module.exports = {
-  plugins: [require('tailwindcss-neumorphism')],
+  plugins: [require('tailwind-neumorphism')],
 }
 ```
 
